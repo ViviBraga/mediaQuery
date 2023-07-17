@@ -1,2 +1,3 @@
 # mediaQuery
- exercicios de media queries
+ exercicios de media queries <br>
+ Acesse o exercício aqui: https://vivibraga.github.io/mediaQuery/
